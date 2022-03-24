@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca0aa9835c2f8f4a9b2b5ff51784391, type: 3}
+  m_Name: Example4LevelConfig
+  m_EditorClassIdentifier: 
+  creationDate: 0
+  _active: 0
+  levels:
+  - _sceneObject: {fileID: 102900000, guid: c1b15c9eee8cb488397b6ba87fbc7090, type: 3}
+    _scenePath: Assets/Level Selects.unity
+    _sceneName: Level Selects
+    scene: 
+    parent: {fileID: 11400000}
+    order: 0
+    name: Level Select
+    type: 0
+    arguments: 
+    groupId: 0
+    extensionGUID: 
+    lockedByDefault: 0
+  - _sceneObject: {fileID: 102900000, guid: c519d36ab80b0437a8085f2d0aeb39ab, type: 3}
+    _scenePath: Assets/1.unity
+    _sceneName: 1
+    scene: 
+    parent: {fileID: 11400000}
+    order: 10
+    name: Level Select (1)
+    type: 0
+    arguments: 
+    groupId: 0
+    extensionGUID: 
+    lockedByDefault: 0
+  - _sceneObject: {fileID: 102900000, guid: 867dd956c347d42a3a28a9940cd8f81e, type: 3}
+    _scenePath: Assets/2.unity
+    _sceneName: 2
+    scene: 
+    parent: {fileID: 11400000}
+    order: 20
+    name: Level Select (2)
+    type: 0
+    arguments: 
+    groupId: 0
+    extensionGUID: 
+    lockedByDefault: 0
+  - _sceneObject: {fileID: 102900000, guid: 49d1af23d06bc4559b2221d7e9c18f60, type: 3}
+    _scenePath: Assets/3.unity
+    _sceneName: 3
+    scene: 
+    parent: {fileID: 11400000}
+    order: 30
+    name: Level Select (3)
+    type: 0
+    arguments: 
+    groupId: 0
+    extensionGUID: 
+    lockedByDefault: 0
+  - _sceneObject: {fileID: 102900000, guid: 07d84980820624b2fb6b74698a3121e5, type: 3}
+    _scenePath: Assets/4.unity
+    _sceneName: 4
+    scene: 
+    parent: {fileID: 11400000}
+    order: 40
+    name: Level Select (4)
+    type: 0
+    arguments: 
+    groupId: 0
+    extensionGUID: 
+    lockedByDefault: 0
+  - _sceneObject: {fileID: 102900000, guid: 729ea4665b18a49f98bac91b54e49d1f, type: 3}
+    _scenePath: Assets/5.unity
+    _sceneName: 5
+    scene: 
+    parent: {fileID: 11400000}
+    order: 50
+    name: Level Select (5)
+    type: 0
+    arguments: 
+    groupId: 0
+    extensionGUID: 
+    lockedByDefault: 0
+  - _sceneObject: {fileID: 102900000, guid: 790740585d6fd43e9a65b71d9ad3d71b, type: 3}
+    _scenePath: Assets/6.unity
+    _sceneName: 6
+    scene: 
+    parent: {fileID: 11400000}
+    order: 60
+    name: Level Select (6)
+    type: 0
+    arguments: 
+    groupId: 0
+    extensionGUID: 
+    lockedByDefault: 0
+  - _sceneObject: {fileID: 102900000, guid: f51b8c70c4dca4822a14d97dfffdc4ae, type: 3}
+    _scenePath: Assets/7.unity
+    _sceneName: 7
+    scene: 
+    parent: {fileID: 11400000}
+    order: 70
+    name: Level Select (7)
+    type: 0
+    arguments: 
+    groupId: 0
+    extensionGUID: 
+    lockedByDefault: 0
+  - _sceneObject: {fileID: 102900000, guid: 8086aa4ed322a498792b7066bd2b099a, type: 3}
+    _scenePath: Assets/8.unity
+    _sceneName: 8
+    scene: 
+    parent: {fileID: 11400000}
+    order: 80
+    name: Level Select (8)
+    type: 0
+    arguments: 
+    groupId: 0
+    extensionGUID: 
+    lockedByDefault: 0
+  groups: []
+  extensions: []
+  version: 1
+  flag: 0

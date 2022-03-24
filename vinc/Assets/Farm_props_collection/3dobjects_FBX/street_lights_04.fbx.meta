@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: b911b4061cb57934bbf5e3a52a6dc001
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: type_03_single
+    100002: type_02_single
+    100004: //RootNode
+    100006: type_02_triple_b
+    100008: type_03_triple_b
+    100010: type_01_single
+    100012: type_02_triple_a
+    100014: type_02_wall_fixed_a
+    100016: type_02_double
+    100018: type_03_triple_a
+    100020: type_01_triple_a
+    100022: type_01_triple_b
+    100024: type_01_wall_fixed_b
+    100026: type_03_wall_fixed_a
+    100028: type_01_wall_fixed_a
+    100030: Camera
+    100032: type_03_double
+    100034: type_03_wall_fixed_c
+    100036: type_01_double
+    100038: type_02_wall_fixed_b
+    100040: type_02_wall_fixed_c
+    100042: type_03_wall_fixed_b
+    100044: type_01_wall_fixed_c
+    400000: type_03_single
+    400002: type_02_single
+    400004: //RootNode
+    400006: type_02_triple_b
+    400008: type_03_triple_b
+    400010: type_01_single
+    400012: type_02_triple_a
+    400014: type_02_wall_fixed_a
+    400016: type_02_double
+    400018: type_03_triple_a
+    400020: type_01_triple_a
+    400022: type_01_triple_b
+    400024: type_01_wall_fixed_b
+    400026: type_03_wall_fixed_a
+    400028: type_01_wall_fixed_a
+    400030: Camera
+    400032: type_03_double
+    400034: type_03_wall_fixed_c
+    400036: type_01_double
+    400038: type_02_wall_fixed_b
+    400040: type_02_wall_fixed_c
+    400042: type_03_wall_fixed_b
+    400044: type_01_wall_fixed_c
+    2300000: type_03_single
+    2300002: type_02_single
+    2300004: type_02_triple_b
+    2300006: type_03_triple_b
+    2300008: type_01_single
+    2300010: type_02_triple_a
+    2300012: type_02_wall_fixed_a
+    2300014: type_02_double
+    2300016: type_03_triple_a
+    2300018: type_01_triple_a
+    2300020: type_01_triple_b
+    2300022: type_01_wall_fixed_b
+    2300024: type_03_wall_fixed_a
+    2300026: type_01_wall_fixed_a
+    2300028: type_03_double
+    2300030: type_03_wall_fixed_c
+    2300032: type_01_double
+    2300034: type_02_wall_fixed_b
+    2300036: type_02_wall_fixed_c
+    2300038: type_03_wall_fixed_b
+    2300040: type_01_wall_fixed_c
+    3300000: type_03_single
+    3300002: type_02_single
+    3300004: type_02_triple_b
+    3300006: type_03_triple_b
+    3300008: type_01_single
+    3300010: type_02_triple_a
+    3300012: type_02_wall_fixed_a
+    3300014: type_02_double
+    3300016: type_03_triple_a
+    3300018: type_01_triple_a
+    3300020: type_01_triple_b
+    3300022: type_01_wall_fixed_b
+    3300024: type_03_wall_fixed_a
+    3300026: type_01_wall_fixed_a
+    3300028: type_03_double
+    3300030: type_03_wall_fixed_c
+    3300032: type_01_double
+    3300034: type_02_wall_fixed_b
+    3300036: type_02_wall_fixed_c
+    3300038: type_03_wall_fixed_b
+    3300040: type_01_wall_fixed_c
+    4300000: type_03_triple_b
+    4300002: type_01_single
+    4300004: type_01_triple_b
+    4300006: type_02_single
+    4300008: type_03_single
+    4300010: type_01_double
+    4300012: type_01_triple_a
+    4300014: type_03_triple_a
+    4300016: type_02_triple_a
+    4300018: type_02_triple_b
+    4300020: type_01_wall_fixed_a
+    4300022: type_02_wall_fixed_a
+    4300024: type_01_wall_fixed_b
+    4300026: type_02_wall_fixed_b
+    4300028: type_03_wall_fixed_b
+    4300030: type_01_wall_fixed_c
+    4300032: type_02_double
+    4300034: type_03_double
+    4300036: type_03_wall_fixed_c
+    4300038: type_02_wall_fixed_c
+    4300040: type_03_wall_fixed_a
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 32
+    normalImportMode: 1
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

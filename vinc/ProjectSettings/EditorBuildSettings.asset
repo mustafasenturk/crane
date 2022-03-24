@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Giris.unity
+    guid: ec96b0669da3a47e89f1c860cd979454
+  - enabled: 1
+    path: Assets/Level Selects.unity
+    guid: a943810b849f34f0d95d3f04ebb8858a
+  - enabled: 1
+    path: Assets/LoadingScene.unity
+    guid: 13c6477ec6d3c4960841bce38f2803d3
+  - enabled: 1
+    path: Assets/1.unity
+    guid: 5caeda59b4fb3467dbce799efbb9f775
+  - enabled: 1
+    path: Assets/2.unity
+    guid: fc9abba7d2b97441f97fe2a2591ca504
+  - enabled: 1
+    path: Assets/3.unity
+    guid: 28a314a6027fc4ffa9f51a12e2297ab6
+  - enabled: 1
+    path: Assets/4.unity
+    guid: 0b00c8c3e728044b2b4605ce382570ca
+  - enabled: 1
+    path: Assets/5.unity
+    guid: 5602fc19d2b40494a9ddb726bf547150
+  - enabled: 1
+    path: Assets/6.unity
+    guid: 27858d58328644cb88b72005f2470b84
+  - enabled: 1
+    path: Assets/7.unity
+    guid: fd36600176d44465f918e7830a730fce
+  - enabled: 1
+    path: Assets/8.unity
+    guid: 07607c2372125447f927be6928f116ed
+  - enabled: 1
+    path: Assets/9.unity
+    guid: d2ee8f8e9443a4207aa6f6d3dc089e5e
+  - enabled: 1
+    path: Assets/10.unity
+    guid: 4ee6576b68a9542ba9b9a5d504be149d
+  - enabled: 1
+    path: Assets/11.unity
+    guid: 198107adcd8834736994c318e73c378f
+  - enabled: 1
+    path: Assets/12.unity
+    guid: 936fe5ee839d64bc5b05b5388ec71c21
+  - enabled: 1
+    path: Assets/13.unity
+    guid: be3e46bec681f4aeabec5bf36dbb09c2
+  - enabled: 1
+    path: Assets/14.unity
+    guid: 7d8791abe42c14e7b975de08ab53ac74
+  - enabled: 1
+    path: Assets/15.unity
+    guid: 9385d95273a6149c18f5c3c6bdb1a414
+  m_configObjects: {}

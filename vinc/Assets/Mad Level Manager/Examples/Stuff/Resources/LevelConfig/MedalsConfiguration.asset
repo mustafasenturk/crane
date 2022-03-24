@@ -1,0 +1,221 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca0aa9835c2f8f4a9b2b5ff51784391, type: 3}
+  m_Name: MedalsConfiguration
+  m_EditorClassIdentifier: 
+  creationDate: 0
+  _active: 1
+  levels:
+  - _sceneObject: {fileID: 102900000, guid: a943810b849f34f0d95d3f04ebb8858a, type: 3}
+    _scenePath: Assets/Level Selects.unity
+    _sceneName: Level Selects
+    scene: 
+    parent: {fileID: 11400000}
+    order: 0
+    name: Level Select
+    type: 0
+    arguments: 
+    groupId: 0
+    extensionGUID: 911cdbab-f491-4a66-9f4a-ec24f7279d39
+    lockedByDefault: 1
+  - _sceneObject: {fileID: 102900000, guid: 5caeda59b4fb3467dbce799efbb9f775, type: 3}
+    _scenePath: Assets/1.unity
+    _sceneName: 1
+    scene: 
+    parent: {fileID: 11400000}
+    order: 10
+    name: Level 1
+    type: 1
+    arguments: This is first level
+    groupId: 0
+    extensionGUID: 911cdbab-f491-4a66-9f4a-ec24f7279d39
+    lockedByDefault: 0
+  - _sceneObject: {fileID: 102900000, guid: fc9abba7d2b97441f97fe2a2591ca504, type: 3}
+    _scenePath: Assets/2.unity
+    _sceneName: 2
+    scene: 
+    parent: {fileID: 11400000}
+    order: 20
+    name: Level 2
+    type: 1
+    arguments: 
+    groupId: 0
+    extensionGUID: 911cdbab-f491-4a66-9f4a-ec24f7279d39
+    lockedByDefault: 1
+  - _sceneObject: {fileID: 102900000, guid: 28a314a6027fc4ffa9f51a12e2297ab6, type: 3}
+    _scenePath: Assets/3.unity
+    _sceneName: 3
+    scene: 
+    parent: {fileID: 11400000}
+    order: 30
+    name: Level 3
+    type: 1
+    arguments: 
+    groupId: 0
+    extensionGUID: 911cdbab-f491-4a66-9f4a-ec24f7279d39
+    lockedByDefault: 1
+  - _sceneObject: {fileID: 102900000, guid: 0b00c8c3e728044b2b4605ce382570ca, type: 3}
+    _scenePath: Assets/4.unity
+    _sceneName: 4
+    scene: 
+    parent: {fileID: 11400000}
+    order: 40
+    name: Level 4
+    type: 1
+    arguments: 
+    groupId: 0
+    extensionGUID: 911cdbab-f491-4a66-9f4a-ec24f7279d39
+    lockedByDefault: 1
+  - _sceneObject: {fileID: 102900000, guid: 5602fc19d2b40494a9ddb726bf547150, type: 3}
+    _scenePath: Assets/5.unity
+    _sceneName: 5
+    scene: 
+    parent: {fileID: 11400000}
+    order: 50
+    name: Level 5
+    type: 1
+    arguments: 
+    groupId: 0
+    extensionGUID: 911cdbab-f491-4a66-9f4a-ec24f7279d39
+    lockedByDefault: 1
+  - _sceneObject: {fileID: 102900000, guid: 27858d58328644cb88b72005f2470b84, type: 3}
+    _scenePath: Assets/6.unity
+    _sceneName: 6
+    scene: 
+    parent: {fileID: 11400000}
+    order: 60
+    name: Level 6
+    type: 1
+    arguments: 
+    groupId: 0
+    extensionGUID: 911cdbab-f491-4a66-9f4a-ec24f7279d39
+    lockedByDefault: 1
+  - _sceneObject: {fileID: 102900000, guid: fd36600176d44465f918e7830a730fce, type: 3}
+    _scenePath: Assets/7.unity
+    _sceneName: 7
+    scene: 
+    parent: {fileID: 11400000}
+    order: 70
+    name: Level 7
+    type: 1
+    arguments: 
+    groupId: 0
+    extensionGUID: 911cdbab-f491-4a66-9f4a-ec24f7279d39
+    lockedByDefault: 1
+  - _sceneObject: {fileID: 102900000, guid: 07607c2372125447f927be6928f116ed, type: 3}
+    _scenePath: Assets/8.unity
+    _sceneName: 8
+    scene: 
+    parent: {fileID: 11400000}
+    order: 80
+    name: Level 8
+    type: 1
+    arguments: 
+    groupId: 0
+    extensionGUID: 911cdbab-f491-4a66-9f4a-ec24f7279d39
+    lockedByDefault: 1
+  - _sceneObject: {fileID: 102900000, guid: d2ee8f8e9443a4207aa6f6d3dc089e5e, type: 3}
+    _scenePath: Assets/9.unity
+    _sceneName: 9
+    scene: 
+    parent: {fileID: 11400000}
+    order: 90
+    name: Level 9
+    type: 1
+    arguments: 
+    groupId: 0
+    extensionGUID: 911cdbab-f491-4a66-9f4a-ec24f7279d39
+    lockedByDefault: 1
+  - _sceneObject: {fileID: 102900000, guid: 4ee6576b68a9542ba9b9a5d504be149d, type: 3}
+    _scenePath: Assets/10.unity
+    _sceneName: 10
+    scene: 
+    parent: {fileID: 11400000}
+    order: 100
+    name: Level 10
+    type: 1
+    arguments: 
+    groupId: 0
+    extensionGUID: 911cdbab-f491-4a66-9f4a-ec24f7279d39
+    lockedByDefault: 1
+  - _sceneObject: {fileID: 102900000, guid: 198107adcd8834736994c318e73c378f, type: 3}
+    _scenePath: Assets/11.unity
+    _sceneName: 11
+    scene: 
+    parent: {fileID: 11400000}
+    order: 110
+    name: Level 11
+    type: 1
+    arguments: 
+    groupId: 0
+    extensionGUID: 911cdbab-f491-4a66-9f4a-ec24f7279d39
+    lockedByDefault: 1
+  - _sceneObject: {fileID: 102900000, guid: 936fe5ee839d64bc5b05b5388ec71c21, type: 3}
+    _scenePath: Assets/12.unity
+    _sceneName: 12
+    scene: 
+    parent: {fileID: 11400000}
+    order: 120
+    name: Level 12
+    type: 1
+    arguments: 
+    groupId: 0
+    extensionGUID: 911cdbab-f491-4a66-9f4a-ec24f7279d39
+    lockedByDefault: 1
+  - _sceneObject: {fileID: 102900000, guid: be3e46bec681f4aeabec5bf36dbb09c2, type: 3}
+    _scenePath: Assets/13.unity
+    _sceneName: 13
+    scene: 
+    parent: {fileID: 11400000}
+    order: 130
+    name: Level 13
+    type: 1
+    arguments: 
+    groupId: 0
+    extensionGUID: 911cdbab-f491-4a66-9f4a-ec24f7279d39
+    lockedByDefault: 1
+  - _sceneObject: {fileID: 102900000, guid: 7d8791abe42c14e7b975de08ab53ac74, type: 3}
+    _scenePath: Assets/14.unity
+    _sceneName: 14
+    scene: 
+    parent: {fileID: 11400000}
+    order: 140
+    name: Level 14
+    type: 1
+    arguments: 
+    groupId: 0
+    extensionGUID: 911cdbab-f491-4a66-9f4a-ec24f7279d39
+    lockedByDefault: 1
+  - _sceneObject: {fileID: 102900000, guid: 9385d95273a6149c18f5c3c6bdb1a414, type: 3}
+    _scenePath: Assets/15.unity
+    _sceneName: 15
+    scene: 
+    parent: {fileID: 11400000}
+    order: 150
+    name: Level 15
+    type: 1
+    arguments: 
+    groupId: 0
+    extensionGUID: 911cdbab-f491-4a66-9f4a-ec24f7279d39
+    lockedByDefault: 1
+  groups: []
+  extensions:
+  - name: loading screen
+    guid: 911cdbab-f491-4a66-9f4a-ec24f7279d39
+    scenesBefore:
+    - _sceneObject: {fileID: 102900000, guid: 13c6477ec6d3c4960841bce38f2803d3, type: 3}
+      _scenePath: Assets/LoadingScene.unity
+      _sceneName: LoadingScene
+      scene: 
+    scenesAfter: []
+  version: 1
+  flag: 0

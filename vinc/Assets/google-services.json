@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "455590924296",
+    "project_id": "vincandroid-17860",
+    "storage_bucket": "vincandroid-17860.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455590924296:android:1c300a634e8bfcfb4581bd",
+        "android_client_info": {
+          "package_name": "com.ExcavatorSimulatorGame.ExcavatorSimulation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455590924296-asb1nsj8a7m1p66ukpbgcap29ihfqrsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXi2-qWXGTvF6rw5X9lvEAgrlkSYpyoKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455590924296-asb1nsj8a7m1p66ukpbgcap29ihfqrsg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

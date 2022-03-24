@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: c1b3a46ae5c51364c99ef04d674c5040
+timeCreated: 1487253718
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arrow0
+    100002: Arrow1
+    100004: Arrow2
+    100006: Arrow3
+    100008: Arrow4
+    100010: Cabin
+    100012: Cable0
+    100014: Cable1
+    100016: Crane
+    100018: Hook
+    100020: Hydro piston_A
+    100022: Hydro piston_B
+    100024: RackBL
+    100026: RackBR
+    100028: RackFL
+    100030: RackFR
+    100032: SupportBL
+    100034: SupportBR
+    100036: SupportFL
+    100038: SupportFR
+    100040: //RootNode
+    100042: wheelBL
+    100044: wheelBR
+    100046: wheelFL
+    100048: wheelFR
+    100050: Truck crane
+    400000: Arrow0
+    400002: Arrow1
+    400004: Arrow2
+    400006: Arrow3
+    400008: Arrow4
+    400010: Cabin
+    400012: Cable0
+    400014: Cable1
+    400016: Crane
+    400018: Hook
+    400020: Hydro piston_A
+    400022: Hydro piston_B
+    400024: RackBL
+    400026: RackBR
+    400028: RackFL
+    400030: RackFR
+    400032: SupportBL
+    400034: SupportBR
+    400036: SupportFL
+    400038: SupportFR
+    400040: //RootNode
+    400042: wheelBL
+    400044: wheelBR
+    400046: wheelFL
+    400048: wheelFR
+    400050: Truck crane
+    2300000: Arrow0
+    2300002: Arrow1
+    2300004: Arrow2
+    2300006: Arrow3
+    2300008: Arrow4
+    2300010: Cabin
+    2300012: Cable0
+    2300014: Cable1
+    2300016: Crane
+    2300018: Hook
+    2300020: Hydro piston_A
+    2300022: Hydro piston_B
+    2300024: RackBL
+    2300026: RackBR
+    2300028: RackFL
+    2300030: RackFR
+    2300032: SupportBL
+    2300034: SupportBR
+    2300036: SupportFL
+    2300038: SupportFR
+    2300040: wheelBL
+    2300042: wheelBR
+    2300044: wheelFL
+    2300046: wheelFR
+    3300000: Arrow0
+    3300002: Arrow1
+    3300004: Arrow2
+    3300006: Arrow3
+    3300008: Arrow4
+    3300010: Cabin
+    3300012: Cable0
+    3300014: Cable1
+    3300016: Crane
+    3300018: Hook
+    3300020: Hydro piston_A
+    3300022: Hydro piston_B
+    3300024: RackBL
+    3300026: RackBR
+    3300028: RackFL
+    3300030: RackFR
+    3300032: SupportBL
+    3300034: SupportBR
+    3300036: SupportFL
+    3300038: SupportFR
+    3300040: wheelBL
+    3300042: wheelBR
+    3300044: wheelFL
+    3300046: wheelFR
+    4300000: wheelFL
+    4300002: Hook
+    4300004: Arrow4
+    4300006: Arrow2
+    4300008: Arrow3
+    4300010: Arrow1
+    4300012: Arrow0
+    4300014: Hydro piston_B
+    4300016: Hydro piston_A
+    4300018: Cabin
+    4300020: wheelFR
+    4300022: wheelBR
+    4300024: Cable1
+    4300026: Cable0
+    4300028: RackFR
+    4300030: RackBR
+    4300032: SupportFL
+    4300034: SupportFR
+    4300036: SupportBR
+    4300038: SupportBL
+    4300040: RackBL
+    4300042: RackFL
+    4300044: Crane
+    4300046: wheelBL
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.033
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
